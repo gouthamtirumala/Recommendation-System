@@ -3,8 +3,8 @@ import pandas as pd
 import pickle
 
 # Display the image at the top
-st.image(r"C:\Users\HP\OneDrive\Pictures\inoopng.png")
-st.image(r"C:\Users\HP\OneDrive\Desktop\movie_png.png", width=500)
+st.image(r"inoopng.png")
+st.image(r"movie_png.png", width=500)
 
 
 def recommend(movie):
