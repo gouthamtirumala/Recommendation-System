@@ -4,7 +4,7 @@ import pickle
 
 # Display the image at the top
 st.image(r"inoopng.png")
-st.image(r".png", width=500)
+st.image(r"movie_png.png", width=500)
 
 
 def recommend(movie):
